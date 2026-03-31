@@ -5,7 +5,7 @@ This is an unknown application written in Java
 ### Use Case Diagram
 <img width="474" height="591" alt="Usecase" src="https://github.com/user-attachments/assets/88030a70-6b6a-476b-bd51-6bfb992da9f1" />
 
-
 ### Flowchart of the main workflow
+<img width="4896" height="5540" alt="Untitled diagram-2026-03-31-080746" src="https://github.com/user-attachments/assets/0c747b58-19d6-422e-8f14-5bbc0b405f1d" />
 
 ### Prompts
